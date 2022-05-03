@@ -120,7 +120,7 @@ List of all the 46 tags used :
 ’NNPS’, ’WP\$’, ’-LRB-’, ’-RRB-’, ’PDT’, ’RBS’, ’FW’,
 ’UH’, ’SYM’, ’LS’, ’’].
 
-![imagename](images/hmm.png) 
+![imagename](images/hmm.png)
 
 ![imagename](images/prob.png)
 
@@ -143,29 +143,31 @@ tree bank dataset.
 
 # References
 
-[1] T. Brants, “TnT – a statistical part-of-speech tagger,” in Sixth Applied
+1. T. Brants, “TnT – a statistical part-of-speech tagger,” in Sixth Applied
 Natural Language Processing Conference. Seattle, Washington,
 USA: Association for Computational Linguistics, Apr. 2000, pp.
 224–231. [Online]. Available: <https://aclanthology.org/A00-1031>
-[2] J. Giménez and L. Màrquez, “SVMTool: A general POS tagger
+
+2. J. Giménez and L. Màrquez, “SVMTool: A general POS tagger
 generator based on support vector machines,” in Proceedings
 of the Fourth International Conference on Language Resources
 and Evaluation (LREC’04). Lisbon, Portugal: European Language
 Resources Association (ELRA), May 2004. [Online]. Available:
 <http://www.lrec-conf.org/proceedings/lrec2004/pdf/597.pdf>
-[3] M. Collins, “Discriminative training methods for hidden Markov
+
+3. M. Collins, “Discriminative training methods for hidden Markov
 models: Theory and experiments with perceptron algorithms,” in
 Proceedings of the 2002 Conference on Empirical Methods in
 Natural Language Processing (EMNLP 2002). Association for
 Computational Linguistics, Jul. 2002, pp. 1–8. [Online]. Available:
 <https://aclanthology.org/W02-1001>
-[4] X. Ma and E. Hovy, “End-to-end sequence labeling via bi-
+4. X. Ma and E. Hovy, “End-to-end sequence labeling via bi-
 directional LSTM-CNNs-CRF,” in Proceedings of the 54th Annual
 Meeting of the Association for Computational Linguistics (Volume
 1: Long Papers). Berlin, Germany: Association for Computational
 Linguistics, Aug. 2016, pp. 1064–1074. [Online]. Available: https:
 //aclanthology.org/P16-1101
-[5] B. Plank, A. Søgaard, and Y. Goldberg, “Multilingual part-of-
+5. B. Plank, A. Søgaard, and Y. Goldberg, “Multilingual part-of-
 speech tagging with bidirectional long short-term memory models
 and auxiliary loss,” in Proceedings of the 54th Annual Meeting
 of the Association for Computational Linguistics (Volume 2:
