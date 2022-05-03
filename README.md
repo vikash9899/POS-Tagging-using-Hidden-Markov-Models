@@ -20,3 +20,6 @@ Part of speech tagging is very important in the Natural
 language processing. In this project i make POS tagger for
 the English language. I used the Probabilistic model and
 Hidden markov model.
+
+![imagename](images/pos_tag.png) 
+
