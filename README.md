@@ -48,14 +48,11 @@ markov models performs as well as the other current ap-
 proaches, including the maximum entropy framework.
 They use the
 
+|||
 |Model performance|
-|-----------------|
 |Penn Tree Bank dataset |  Accuracy|
-|--------|---------|
 |known words | 97.0 %|
-|--------|---------|
 |unknown words|85.5 %|
-|--------|---------|
 |overall|96.7 %|
 
 Table 1: Accuracy for the TnT model
