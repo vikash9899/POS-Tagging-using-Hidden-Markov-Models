@@ -1,0 +1,8 @@
+I/PRP have/VBP visited/VBD Georgia/NNP Tech/NNP on/NNP Thursday/NNP ./NNP 
+One/CD of/IN the/DT students/NNS indicated/VBD that/IN he/PRP is/VBZ interested/VBN in/IN a/NNP summer/NNP internship/NNP ./NNP 
+He/PRP came/VBD across/RP as/IN a/NNP very/NNP bright/NNP person/NNP ,/NNP very/NNP personable/NNP ./NNP 
+I/PRP can/MD take/VB him/PRP as/IN a/NNP summer/NNP intern/NNP ./NNP 
+I/PRP am/VBP raising/VBG money/NN for/IN a/DT good/JJ cause/NN ./. 
+we/PRP have/VBP no/DT idea/NN what/WP has/VBZ happened/VBD to/TO cause/VB people/NNS to/TO stay/VB away/RP ./. 
+this/NNP year/NNP has/NNP tested/NNP industry's/NNP ability/NNP to/NNP weather/NNP recession/NNP ./NNP 
+a/NNP database/NNP covering/NNP nine/NNP million/NNP workers/NNP ./NNP 
